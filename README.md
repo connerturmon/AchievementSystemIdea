@@ -1,5 +1,5 @@
 # Achievement System Idea
-![Output Image](/Resource/output.png)
+![Output Image](AchievementSystemIdea/Resource/output.png)
 
 ## Short Explanation
 This is a simple mockup of an achievement system that is event driven and aims to decouple components like the `AchievementItem` and `ProgressBar` from the UI and other future systems.
